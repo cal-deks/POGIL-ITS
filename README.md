@@ -389,3 +389,4 @@ cd client  # or wherever your React app lives
 rm -rf node_modules package-lock.json
 npm install
 ```
+Initial test commit from Calvin
